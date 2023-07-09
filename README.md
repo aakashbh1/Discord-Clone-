@@ -1,2 +1,2 @@
 # Discord-Clone-
-discordclone1.vercel.app
+https://discordclone1.vercel.app/
